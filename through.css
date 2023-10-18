@@ -75,6 +75,7 @@ h1 {
     border-radius: 5px;
     width: 22px;
     height: 22px;
+    padding: auto;
     vertical-align: baseline;
     cursor: pointer;
  }
@@ -90,7 +91,7 @@ h1 {
     width: 22px;
     height: 22px;
     vertical-align: baseline;
-    padding-bottom:0px;
+    padding: auto;
     cursor: pointer;
  }
 
